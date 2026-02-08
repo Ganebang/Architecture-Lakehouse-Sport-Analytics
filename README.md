@@ -40,7 +40,7 @@ This project implements a Lakehouse architecture for football (soccer) match ana
 - Ready for extension to more leagues or analytics.
 
 ## Requirements
-- Python 3.8+
+- Databricks
 - PySpark
 - pandas
 - requests
@@ -48,7 +48,7 @@ This project implements a Lakehouse architecture for football (soccer) match ana
 - Delta Lake (Databricks or compatible local setup)
 
 ## Authors
-- [Your Name]
+- [Amala Gane Kwada]
 
 ---
 
